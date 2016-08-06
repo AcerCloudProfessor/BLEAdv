@@ -3,6 +3,7 @@ This Linux shell script is used in Acer CloudProfessor (CPF) for BLE Advertiseme
 
 #Prerequisites
 Linux kernel v4.2 and above
+
 BlueZ 5.35 and above
 
 
