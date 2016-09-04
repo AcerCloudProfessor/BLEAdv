@@ -1,5 +1,5 @@
 # BLEAdv - Bluetooth LE Advertisement
-This Linux bash shell script is used in Acer CloudProfessor (CPF) for Wifi setup.  It makes CPF as a BLE peripheral role and broadcasts the BT MAC address.  When CPF is powered on, the device acts like a BLE beacon waiting for BLE capable devices (central role), such as smartphone or tablet, to discover and connect via GATT.  Once connected, CPF then accepts the commands from the connecting device to do Wifi setup (not covered in this script).  Hence the script name "cpf-wifisetup-leadv.sh".
+This Linux bash shell script is used in Acer CloudProfessor (CPF) for Wifi setup.  It makes CPF as a BLE peripheral role and broadcasts the BT MAC address.  When CPF is powered on, the device acts like a BLE beacon waiting for BLE capable devices (central role), such as smartphone or tablet, to discover and connect via GATT.  Once connected, CPF then accepts the provisioning commands and data from the connecting device to do Wifi setup (not covered in this script).  Hence the script name "cpf-wifisetup-leadv.sh".
 
 Although the script is used mainly in CPF, it should be compatible for all Linux based OS and hardware running BlueZ v5.35 and above.  It has also been tested on Ubuntu 15.10 & 16.04.
 
