@@ -3,7 +3,7 @@ This Linux bash shell script is used in Acer CloudProfessor (CPF) for Wifi setup
 
 Although the script is used mainly in CPF, it should be compatible for all Linux based OS and hardware running BlueZ v5.35 and above.  It has also been tested on Ubuntu 15.10 & 16.04.
 
-This script was tested on BLE capable Android devices (Android v4.4) and iPhone and iPad (iOS 8.x) and above.  Test utility, nRF Connect for Mobile, is one of the test tools used to test the script.
+This script was tested on BLE capable Android devices (Android v4.4) and iPhone and iPad (iOS 8.x) and above.  Test utility, nRF Connect for Mobile, is one of the test tools used to test this script.
 
 <b>Usage:</b><br/>
 cpf-wifisetup-leadv.sh DeviceName
